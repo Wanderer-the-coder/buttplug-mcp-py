@@ -107,7 +107,7 @@ This project controls physical hardware.
 
 The original [buttplug-mcp](https://github.com/ConAcademy/buttplug-mcp) is written in Go and uses the `go-buttplug` library, which has known connection stability issues. The author themselves noted it was "unstable and frustrating" and had not been tested end-to-end.
 
-This Python implementation uses the official `buttplug-py` library, which provides a more stable and straightforward API. It has been tested and confirmed working end-to-end.
+This Python implementation uses the `buttplug-py` library, which provides a more stable and straightforward API. It has been tested and confirmed working end-to-end.
 
 ---
 
