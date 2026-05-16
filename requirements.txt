@@ -1,0 +1,1 @@
+buttplug-py>=0.2.0
